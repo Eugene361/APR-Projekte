@@ -1,0 +1,9 @@
+name: APR-Projekt.1.19.3
+version: '1.0-SNAPSHOT'
+main: at.eugene.aprprojekt.Main
+api-version: 1.19
+commands:
+  timer:
+    permission: aprprojekt.command.timer
+  deaths:
+    permission: aprprojekt.command.deaths
